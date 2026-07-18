@@ -1,0 +1,10 @@
+torch
+torchvision
+transformers
+datasets
+accelerate
+scikit-learn
+pandas
+numpy
+pillow
+gradio
